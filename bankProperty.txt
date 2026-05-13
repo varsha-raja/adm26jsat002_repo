@@ -1,0 +1,5 @@
+bank.name = hsbc
+bank.address=Chennai
+bank.cName=varsha
+bank.acctNo=xxxxxxx8907
+bank.acctType=saving
